@@ -1,0 +1,1 @@
+Code for the SRBMDP. Experiments and plots in Jupyter notebooks. Designed to work with the POMDPS.jl and, to a lesser extent, ReinforementLearning.jl ecosystems. Open-loop MCTS is adapted from MCTS.jl. Problems are adapted from POMDPModels.jl and RockSample.jl.
